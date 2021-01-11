@@ -1,0 +1,27 @@
+{
+  "name": "clirmgen",
+  "version": "1.0.0",
+  "description": "a program to generate readmes on the fly",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "inquirer": "^7.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristopherNeill/clirmgen.git"
+  },
+  "keywords": [
+    "readme"
+  ],
+  "author": "Christopher Searcy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChristopherNeill/clirmgen/issues"
+  },
+  "homepage": "https://github.com/ChristopherNeill/clirmgen#readme"
+}
